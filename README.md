@@ -26,7 +26,7 @@
   
 
 ## Screenshots
-![Power Supply arquitecture](./img/screenshot.png)
+![Power Supply arquitecture](./img/tekprobe_architecture.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
