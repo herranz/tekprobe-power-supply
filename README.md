@@ -4,7 +4,7 @@
 
 
 # Tekprobe power supply
-> A 1 channel power supply and adapter for the Tektronix's Tekprobe interface capable of supplying the duals voltage (-5V/5V DC and -15V/15V DC) and the offset voltage (-1v to 1v). 
+> A 1 channel power supply and adapter for the Tektronix's Tekprobe interface capable of supplying the duals voltages (-5V/5V DC and -15V/15V DC) and also the offset voltage (-1v to 1v). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,23 +17,20 @@
 * [Contact](#contact)
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- I've had for a few months a very good precision current probe with almost no use siting in my bench incapable of using it in my oscilloscope because it uses a propietary and obsolete Tekprobe connection. The idea of creating has been kicking arround in the back of my mind and by sure is not a new idea, see [Acknowledgements](#acknowledgements) to other webpages where I got the information, and while this design is mine for sure is inspired and remixed from the different sources.
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- 1 channel but easily replicable to create a dual or triple power supply with the same power supply.
+- Offset coarse and fine adjustment, something that other power supply project lack.
+- Power from main through the help of a 19v power supply (To reuse an old laptop power supply)
+  
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Power Supply arquitecture](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_ 
 
 ## Acknowledgements
 Give credit here.
