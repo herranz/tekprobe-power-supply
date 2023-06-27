@@ -26,7 +26,7 @@
   
 
 ## Screenshots
-![Power Supply architecture](./img/tekprobe_gen1.png)\
+![Power Supply architecture](./img/tekprobe-gen1.png)\
 > Tekprobre power supply architecture
 <!-- If you have screenshots you'd like to share, include them here. -->
 
