@@ -17,12 +17,12 @@
 * [Contact](#contact)
 
 ## General Information
-I've had for a few months a very good precision current probe with almost no use siting in my bench incapable of using it in my oscilloscope because it uses a propietary and obsolete Tekprobe connection. The idea of creating has been kicking arround in the back of my mind and by sure is not a new idea, see [Acknowledgements](#acknowledgements) to other webpages where I got the information, and while this design is mine for sure is inspired and remixed from the different sources.
+I've had for a few months a very good precision current probe with almost no use siting in my bench incapable of using it in my oscilloscope because it uses a propietary and obsolete Tekprobe connection. The idea of creating has been kicking arround in the back of my mind and by sure is not a new idea, see [Acknowledgements](#acknowledgements) to see a list of other where I got some of the information and inspiration to create my own. 
 
 ## Features
 - 1 channel but easily replicable to create a dual or triple power supply with the same power supply.
 - Offset coarse and fine adjustment, something that other power supply project lack.
-- Power from main through the help of a 19v power supply (To reuse an old laptop power supply)
+- Power from main through a 18v switching power supply (Is posible to reuse also an old laptop power supply). Similar to the 1103 power supply sold by tektronix in later years. 
   
 
 ## Screenshots
