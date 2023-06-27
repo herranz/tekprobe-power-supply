@@ -17,7 +17,7 @@
 * [Contact](#contact)
 
 ## General Information
-- I've had for a few months a very good precision current probe with almost no use siting in my bench incapable of using it in my oscilloscope because it uses a propietary and obsolete Tekprobe connection. The idea of creating has been kicking arround in the back of my mind and by sure is not a new idea, see [Acknowledgements](#acknowledgements) to other webpages where I got the information, and while this design is mine for sure is inspired and remixed from the different sources.
+I've had for a few months a very good precision current probe with almost no use siting in my bench incapable of using it in my oscilloscope because it uses a propietary and obsolete Tekprobe connection. The idea of creating has been kicking arround in the back of my mind and by sure is not a new idea, see [Acknowledgements](#acknowledgements) to other webpages where I got the information, and while this design is mine for sure is inspired and remixed from the different sources.
 
 ## Features
 - 1 channel but easily replicable to create a dual or triple power supply with the same power supply.
