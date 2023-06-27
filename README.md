@@ -35,12 +35,12 @@ Project is: _in progress_
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- [Ritaly](https://github.com/ritaly) for this awesome readme template [README cheatsheet](https://github.com/ritaly/README-cheatsheet)
+- Jay_Diddy_B in the EEVblog forum for the initial project [Link](https://www.eevblog.com/forum/projects/tektronix-tekprobe-power-supply-for-agilent-rigol-and-other-oscilloscopes/)
+- Grease Monkey for his implementation  [Link](https://btbm.ch/a-usb-power-supply-for-the-tekprobe-interface/)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Borja Herranz @herranz - feel free to contact me!
 
 
 <!--
