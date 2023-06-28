@@ -23,7 +23,7 @@ I've had for a few months a very good precision current probe with almost no use
 
 ~~A lot of this equipment is old, forgotten on a shelf and replaced for more modern stuff but is perfect for young engineer starting his lab or for students to play around with good enough devices to learn but if it breaks, is not a great loss. Maybe is somewhat naive, but you could say is a way of recycling and do my part to stop e-waste.~~
 
-__Update 28/06/2023__: After some consideration, while the ICs are quite cheap, the potentiometers to trim the voltage offset the cost so much that is not feasible to keep working with the LM317 & LM337 architecture. I'm considering the use of fixed LDO (Like the 78XX and 79XX series) or use the same as the other projects even if the cost is 7 euros per unit and the soldering is much much difficult. 
+**Update 28/06/2023**: After some consideration, while the ICs are quite cheap, the potentiometers to trim the voltage offset the cost so much that is not feasible to keep working with the LM317 & LM337 architecture. I'm considering the use of fixed LDO (Like the 78XX and 79XX series) or use the same as the other projects even if the cost is 7 euros per unit and the soldering is much much difficult. 
 
 ## Features
 - 1 channel but given that the LDO are overspecs, replicating the fuses you could remix the board to do a 2 or 3 channel power supply.
