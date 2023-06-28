@@ -19,9 +19,9 @@
 ## General Information
 I've had for a few months a very good precision current probe with almost no use siting in my bench incapable of using it in my oscilloscope because it uses a proprietary and obsolete Tekprobe connection. The idea of creating has been kicking around in the back of my mind and by sure is not a new idea, see [Acknowledgements](#acknowledgements) to see a list of other where I got some of the information and inspiration to create my own.
 
-~~In essence this power supply is a clone of the Tektronix 1103. The main advantage is how easy is to source all the components and how easy is to solder them, maybe they aren't the best in term of noise rejection but this is a conscious choice.
+~~In essence this power supply is a clone of the Tektronix 1103. The main advantage is how easy is to source all the components and how easy is to solder them, maybe they aren't the best in term of noise rejection but this is a conscious choice.~~
 
-A lot of this equipment is old, forgotten on a shelf and replaced for more modern stuff but is perfect for young engineer starting his lab or for students to play around with good enough devices to learn but if it breaks, is not a great loss. Maybe is somewhat naive, but you could say is a way of recycling and do my part to stop e-waste.~~
+~~A lot of this equipment is old, forgotten on a shelf and replaced for more modern stuff but is perfect for young engineer starting his lab or for students to play around with good enough devices to learn but if it breaks, is not a great loss. Maybe is somewhat naive, but you could say is a way of recycling and do my part to stop e-waste.~~
 
 After some consideration, while the ICs are quite cheap, the potentiometers to trim the voltage offset the cost so much that is not feasible to keep working with the LM317 & LM337 architecture. I'm considering the use of fixed LDO (Like the 78XX and 79XX series) or use the same as the other projects even if the cost is 7 euros per unit and the soldering is much much difficult. 
 
